@@ -25,8 +25,8 @@ To install the [command line client](https://github.com/travis-ci/travis.rb#inst
 gem install travis --no-rdoc --no-ri
 ```
 
-To run the command line [lint](https://github.com/travis-ci/travis.rb#lint) tool:
-
+เมื่อต้องการเรียกใช้คำสั่ง[lint] ( https://github.com/travis-ci/travis.rb#lint ) 1
+F
 ```bash
 # from any directory
 travis lint [path to your .travis.yml]
